@@ -1,3 +1,18 @@
+## Bryce's Minimal portfolio page
+
+I created this page to reflect my work and the time spent at Code Institute. I wanted to keep the design simple so the projects and content imbedded within the site would stand out. 
+
+
+# Design ideas
+* The colors I picked reflect my favorite colors. Crimsion with accents of Cream and black. 
+* Font is FontAwesome. A simple font that does'nt distract from the content of the page, but enhances the views experience. 
+
+
+
+
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -25,3 +40,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+
