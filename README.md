@@ -5,7 +5,7 @@ I created this page to reflect my work and the time spent at Code Institute. I w
 
 # Design ideas
 * The colors I picked reflect my favorite colors. Crimsion with accents of Cream and black. 
-* Font is FontAwesome. A simple font that does'nt distract from the content of the page, but enhances the views experience. 
+* Font is FontAwesome. A simple font that doesn't distract from the content of the page, but enhances the views experience. 
 
 
 
